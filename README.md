@@ -5,4 +5,5 @@ GPT-4o mini enables a broad range of tasks with its low cost and latency, such a
 
 Today, GPT-4o mini supports text and vision in the API, with support for text, image, video and audio inputs and outputs coming in the future. The model has a context window of 128K tokens, supports up to 16K output tokens per request, and has knowledge up to October 2023. Thanks to the improved tokenizer shared with GPT-4o, handling non-English text is now even more cost effective.
 - https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/
+- GPT-4o mini on Google Colab Notebook : https://youtu.be/qxu7AxUnLPs?feature=shared
 
